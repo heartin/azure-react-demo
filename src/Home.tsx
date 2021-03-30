@@ -1,7 +1,7 @@
 import React, {FC} from "react";
 
 const Home: FC = () => {
-    return <div> Hello World! First Sample React Home Project-Test</div>
+    return <div> Welcome to home page</div>
 };
 
 export default Home;
